@@ -1,14 +1,14 @@
 {
-    "name": "bascil/php_voice_customer_care",
-    "description": "Call center Automation System in PHP for Customer Care",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Bascil",
-            "email": "basilndonga@gmail.com"
-        }
-    ],
-    "minimum-stability": "stable",
-    "require": {}
+  "name": "bascil/php_voice_customer_care",
+  "description": "Call center Automation implemented in PHP for Customer Care",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bascil",
+      "email": "basilndonga@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
 }
