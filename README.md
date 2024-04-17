@@ -37,7 +37,7 @@ Download the source code as zipped
 
 ## Linux Hosting
 
-If you need VPS or dedicated hosting, please visit this link [Server Host](https://serverhost53.com).
+If you need VPS or dedicated hosting, please visit this link [Servercrust](https://servercrust.com).
 
 ## Support
 
